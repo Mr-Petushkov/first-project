@@ -1,1 +1,4 @@
-1. Пройти пару тем по Git.
+Complete a few tasks using Git;
+Break into Pentagon;
+Re-create MacOS and destroy the walled garden;
+
